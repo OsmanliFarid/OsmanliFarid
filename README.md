@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm OsmanliFarid</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
-- 🔭 I’m currently working on **CSS**
+- 🔭 I’m currently working on **JAVASCRIPT**
 
 - 📫 How to reach me **osmanliferid686@gmail.com**
 
