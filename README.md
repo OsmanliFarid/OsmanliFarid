@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1F4B99&size=40&center=true&vCenter=true&width=1000&lines=I+am+OsmanliFarid!;Frontend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1F4B99&size=40&center=true&vCenter=true&width=1000&lines=I+am+OsmanliFarid!;Full+Stack+Developer)](https://git.io/typing-svg)
 
-<h3 align="center">A passionate frontend developer from Azerbaijan</h3>
+<h3 align="center">A passionate Full Stack Developer from Azerbaijan</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=osmanlifarid&label=Profile%20views&color=0e75b6&style=flat" alt="osmanlifarid" />
