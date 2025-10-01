@@ -1,73 +1,87 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1F4B99&size=40&center=true&vCenter=true&width=1000&lines=I+am+OsmanliFarid!;Full+Stack+Developer)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Osmanli%20Farid&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+</div>
 
-<h3 align="center">A passionate Full Stack Developer from Azerbaijan</h3>
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hi, I’m Osmanli Farid – Full Stack Developer 🚀
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=osmanlifarid&label=Profile%20views&color=0e75b6&style=flat" alt="osmanlifarid" />
-</p>
+<div align="center" >
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=180&lines=Full+Stack+Developer+🚀;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Building+Modern+Web+Apps;From+Azerbaijan+🇦🇿" alt="Typing SVG" />
+</div>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=osmanlifarid" alt="osmanlifarid" />
-  </a>
-</p>
+<!-- Skill Icons -->
+<div align="center" style="margin-top:10px; margin-bottom:40px;">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,git," width="500" height="40">
+</div>
 
-- 🔭 I’m currently working on learning React  
-- 📫 How to reach me **osmanliferid686@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <!-- Sosial şəbəkə linkləri əlavə etmək istəsən bura əlavə edə bilərsən -->
-</p>
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Full Stack Developer from Azerbaijan 🇦🇿  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a> 
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a> 
-  <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/7552965?s=200&v=4" alt="mongoose" width="40" height="40"/>
-  </a> 
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/>
-  </a> 
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a> 
-</p>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=osmanlifarid&show_icons=true&locale=en&layout=compact" alt="osmanlifarid" />
-</p>
+Passionate about learning and building **interactive web applications** with clean code, modern design and scalable solutions.  
+Currently focused on **React, Next.js, Node.js & TypeScript** to create production-ready projects.  
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=osmanlifarid&show_icons=true&locale=en" alt="osmanlifarid" />
-</p>
+---
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osmanlifarid&" alt="osmanlifarid" />
-</p>
+### 💻 Tech Stack
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+### 📊 GitHub Analytics  
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OsmanliFarid&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsmanliFarid&layout=compact&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OsmanliFarid&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+---
+
+### 🤝 Connect With Me  
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osmanliferid686@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OsmanliFarid)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farid-osmanli-805b40375/)
+
+</div>
+
+---
+
+<div align="center">
+  
+![](https://komarev.com/ghpvc/?username=OsmanliFarid&color=blueviolet&style=for-the-badge&label=Profile+Views)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+**"Code is the art of turning ideas into reality"** ✨
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
+</div>
